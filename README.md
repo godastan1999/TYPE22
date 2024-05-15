@@ -1,0 +1,2 @@
+# TYPE22
+Mokslai
